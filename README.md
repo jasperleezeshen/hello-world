@@ -4,5 +4,5 @@ This is my first remote repository! :)
 //added from remote repo
 Thank you,
 welcome back
-Topple the Organisation, El Psy Kongroo
 testing git add --all
+removed the nonsense
